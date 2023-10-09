@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Plus+Jakarta+Sans:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "Sangbleu";
+  src: url("/fonts/sangbleu/SangBleuSunrise-Regular-WebTrial.woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Sangbleu";
+  src: url("fonts/sangbleu/SangBleuSunrise-Medium-WebTrial.woff2");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Sangblue";
+  src: url("fonts/sangbleu/SangBleuSunrise-Bold-WebTrial.woff2");
+  font-weight: 700;
+}

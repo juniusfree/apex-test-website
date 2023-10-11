@@ -13,12 +13,12 @@
 
 @font-face {
   font-family: "Sangbleu";
-  src: url("fonts/sangbleu/SangBleuSunrise-Medium-WebTrial.woff2");
+  src: url("/fonts/sangbleu/SangBleuSunrise-Medium-WebTrial.woff2");
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Sangblue";
-  src: url("fonts/sangbleu/SangBleuSunrise-Bold-WebTrial.woff2");
+  src: url("/fonts/sangbleu/SangBleuSunrise-Bold-WebTrial.woff2");
   font-weight: 700;
 }
